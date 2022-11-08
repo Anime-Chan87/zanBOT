@@ -54,22 +54,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6282147142709'] //ur owner number
-global.ownername = "Zanz" //ur owner name
-global.ytname = "YT: ZanzHost" //ur yt chanel name
+global.vcardowner = ['6285693917497'] //ur owner number
+global.ownername = "ÄKMÅL MESSENGER" //ur owner name
+global.ytname = "YT: st" //ur yt chanel name
 global.socialm = "GitHub: Zanz" //ur github or insta name
 global.location = "Indonesia, Jogjakarta,Bantul" //ur location
 
 //bot bomdy 
-global.owner = ['6282147142709']
-global.ownertag = '6282147142709' //ur tag number
-global.botname = 'Zanz Bot' //ur bot name
+global.owner = ['6285693917497']
+global.ownertag = '6285693917497' //ur tag number
+global.botname = 'ANIME Bot' //ur bot name
 global.linkz = "https://www.tiktok.com/@Zanzmod1" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.tiktok.com/@Zanzmod1" //ur website to be displayed
 global.botscript = 'WA OWNER' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🗿" //ur theme emoji
-global.packname = "Zanz Bot Stickers\n " //ur sticker watermark packname
+global.packname = "ANIME Bot Stickers\n " //ur sticker watermark packname
 global.author = "Imaa><" //ur sticker watermark author
 global.wm = "Gogots Mod"
 
